@@ -6,6 +6,7 @@ LM35 is three pin transistor like device. It has VCC, GND and OUTPUT. This senso
 
 
 
+# SWOT Analysis
 # 4W and 1H:
 
 What: Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer. The heater in most vehicles work well, but the car's seat warmer is close to your body allowing you to warm up faster. In some cases, the seat warms up before the rest of the vehicle does.
