@@ -3,6 +3,8 @@ M2_Embedded_Teamperature_Measurement
 
 ## Badges
 [![cppcheck-action-test](https://github.com/aniketmoon5/M2_Embedded_Teamperature_Measurement/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/aniketmoon5/M2_Embedded_Teamperature_Measurement/actions/workflows/cppcheck.yml)
+[![Build Status](https://github.com/gauri2323/M2-Embedded_Temperature_Measurement_System/actions/workflows/build.yml/badge.svg)](https://github.com/gauri2323/M2-Embedded_Temperature_Measurement_System/actions/workflows/build.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8643a440219b4b268f7d4a710b08f927)](https://www.codacy.com/gh/gauri2323/M2-Embedded_Temperature_Measurement_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gauri2323/M2-Embedded_Temperature_Measurement_System&amp;utm_campaign=Badge_Grade)
 
 
 
