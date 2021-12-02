@@ -2,6 +2,7 @@
 M2_Embedded_Teamperature_Measurement
 
 ## Badges
+[![cppcheck-action-test](https://github.com/aniketmoon5/M2_Embedded_Teamperature_Measurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aniketmoon5/M2_Embedded_Teamperature_Measurement/actions/workflows/cppcheck.yml)
 
 
 
