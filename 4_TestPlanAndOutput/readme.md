@@ -13,3 +13,6 @@
 |-------|-----------------------| ------------ | -----------| 
 | L_01  |Open the app           | PASSED       |SUCESS      | 
 | L_03  |Reserve seat           | PASSED       |SUCCESS     |
+
+
+
